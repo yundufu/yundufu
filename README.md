@@ -1,6 +1,6 @@
 # Hi there! You have reached Xiaoyun Fu 👋
 
-- :woman_student: I am a 5th year Ph.D. student majoring Computer Science at Iowa State University
+- :woman_student: I am a 5th year Ph.D. student majoring in Computer Science at Iowa State University
 - 🔭 I’m currently working on Graph Processing Algorithms, Submodular Function Maximization Problems.
 - :computer: I'm skilled in Java, C++, Python, and LaTex.
 - 🌱 I’m currently learning Docker.

@@ -10,3 +10,4 @@
 - 😄 Pronouns: She/Her/Hers.
 - ⚡ Fun fact: I am a multitasker who focuses on each task sequentially.
 
+<img src = "https://github-readme-stats.vercel.app/api?username=yundufu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
